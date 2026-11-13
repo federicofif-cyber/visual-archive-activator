@@ -7,6 +7,7 @@ authors:
     given-names: "Federico Ignacio"
     affiliation: "Centro de Estudios de la Sociedad Digital, Escuela Interdisciplinaria de Altos Estudios Sociales, Universidad Nacional de San Martín"
 version: "1.0"
+doi: "10.5281/zenodo.24200569"
 date-released: "2026-11-13"
 license: MIT
 repository-code: "https://github.com/federicofif-cyber/visual-archive-activator"

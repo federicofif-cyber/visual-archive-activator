@@ -1,5 +1,6 @@
 # Visual Archive Activator — SD 1.5 + ControlNet
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24200569.svg)](https://doi.org/10.5281/zenodo.24200569)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/federicofif-cyber/visual-archive-activator/blob/v1.0/colab_intervencion_sd15_controlnet.ipynb)
 
 Developed by Federico Fort.
@@ -159,7 +160,11 @@ Locally, the app binds only to `127.0.0.1` and exposes no public URL; on Colab i
 
 ## Citation
 
-If you use this tool, please cite it. Citation metadata is in [`CITATION.cff`](CITATION.cff); GitHub's "Cite this repository" button formats it for you. Each release is archived on Zenodo with its own DOI.
+If you use this tool, please cite it:
+
+> Fort, F. I. (2026). *Visual Archive Activator* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24200569
+
+Citation metadata is also in [`CITATION.cff`](CITATION.cff); GitHub's "Cite this repository" button formats it for you. Each release is archived on Zenodo with its own DOI; the one above corresponds to version `v1.0`, the version used to produce the Sage dataset.
 
 ## License
 
