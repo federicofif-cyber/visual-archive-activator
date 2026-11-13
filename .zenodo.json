@@ -1,0 +1,13 @@
+{
+  "title": "Visual Archive Activator",
+  "upload_type": "software",
+  "description": "A Gradio app for intervening in archival photographs with Stable Diffusion 1.5 (img2img), optional ControlNet, IP-Adapter (Reference Only) and inpainting. Every generated image is saved with its prompt and settings embedded as PNG metadata. Companion tool to the Sage Research Methods dataset <em>Generative AI as Archival Intervention: Reimagining Bolivian Photographic Archives (1925–1935)</em>.",
+  "creators": [
+    {
+      "name": "Fort, Federico Ignacio",
+      "affiliation": "Centro de Estudios de la Sociedad Digital, Escuela Interdisciplinaria de Altos Estudios Sociales, Universidad Nacional de San Martín"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["generative AI", "Stable Diffusion", "ControlNet", "visual archives", "archival intervention", "research methods"]
+}

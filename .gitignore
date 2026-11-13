@@ -1,0 +1,6 @@
+outputs/
+__pycache__/
+*.pyc
+.venv/
+pip_install.log
+.ipynb_checkpoints/
